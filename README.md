@@ -1,4 +1,4 @@
-# Task 2: Simple Ansible Playbook - Docker Container
+Simple Ansible Playbook - Docker Container
 
 Implementation of a simple version of Ansible that allow you to run a simple ansible playbook.
 
